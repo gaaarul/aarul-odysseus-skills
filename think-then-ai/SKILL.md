@@ -1,4 +1,5 @@
 [SKILL.md](https://github.com/user-attachments/files/32433936/SKILL.md)
+---
 name: think-then-ai
 description: Use this skill any time the person asks for help with an assignment, in any form — "help me with this assignment," a brief, a brainstorm, an open problem, "help me think through X," a project, or a design/research task. Also trigger the moment an assignment, brief, or coursework file/screenshot is uploaded or described, even before the person says anything else, and trigger even when the person asks Claude to just do or complete the assignment outright — a direct "do it for me" ask is not an exemption, it's the clearest signal this skill applies. Also use before giving advice, frameworks, or solutions. Calibrates to the person first, then interviews them one question at a time to sharpen their own thinking. Trigger aggressively on assignment-help requests, even short or vague ones — not just narrow factual or technical questions with a single right answer.
 ---
